@@ -1,0 +1,86 @@
+2018-12-03 10:56:34,263 [main a] INFO - --PROPRIETARY--
+2018-12-03 10:56:34,264 [main a] INFO - Contrast Runtime Engine
+2018-12-03 10:56:34,264 [main a] INFO - Copyright (C) 2012
+2018-12-03 10:56:34,264 [main a] INFO - Pat. 8,458,789 B2
+2018-12-03 10:56:34,264 [main a] INFO - Contrast Security, Inc.
+2018-12-03 10:56:34,265 [main a] INFO - All Rights Reserved
+2018-12-03 10:56:34,265 [main a] INFO - https://www.contrastsecurity.com/
+
+2018-12-03 10:56:34,265 [main a] INFO - Agent Version:    3.5.7.651
+2018-12-03 10:56:34,266 [main a] INFO - Agent Build Time: 20181024.2328
+2018-12-03 10:56:34,266 [main a] INFO - Java Version:     Oracle Corporation :: 1.8.0_171
+2018-12-03 10:56:34,266 [main a] INFO -   java.runtime.name	 Java(TM) SE Runtime Environment
+2018-12-03 10:56:34,267 [main a] INFO -   sun.boot.library.path	 C:\Program Files\Java\jdk1.8.0_171\jre\bin
+2018-12-03 10:56:34,267 [main a] INFO -   java.vm.version	 25.171-b11
+2018-12-03 10:56:34,267 [main a] INFO -   user.country.format	 TW
+2018-12-03 10:56:34,267 [main a] INFO -   contrast.override.appversion	 spring-petclinic-${BUILD_NUMBER}
+2018-12-03 10:56:34,267 [main a] INFO -   java.vm.vendor	 Oracle Corporation
+2018-12-03 10:56:34,268 [main a] INFO -   java.vendor.url	 http://java.oracle.com/
+2018-12-03 10:56:34,268 [main a] INFO -   path.separator	 ;
+2018-12-03 10:56:34,268 [main a] INFO -   java.vm.name	 Java HotSpot(TM) 64-Bit Server VM
+2018-12-03 10:56:34,268 [main a] INFO -   file.encoding.pkg	 sun.io
+2018-12-03 10:56:34,268 [main a] INFO -   user.country	 US
+2018-12-03 10:56:34,268 [main a] INFO -   user.script	 
+2018-12-03 10:56:34,268 [main a] INFO -   sun.java.launcher	 SUN_STANDARD
+2018-12-03 10:56:34,268 [main a] INFO -   sun.os.patch.level	 
+2018-12-03 10:56:34,268 [main a] INFO -   java.vm.specification.name	 Java Virtual Machine Specification
+2018-12-03 10:56:34,268 [main a] INFO -   user.dir	 C:\Users\cjsun\Desktop\DemoWebApps\contrast-spring-petclinic
+2018-12-03 10:56:34,268 [main a] INFO -   java.runtime.version	 1.8.0_171-b11
+2018-12-03 10:56:34,268 [main a] INFO -   java.awt.graphicsenv	 sun.awt.Win32GraphicsEnvironment
+2018-12-03 10:56:34,268 [main a] INFO -   java.endorsed.dirs	 C:\Program Files\Java\jdk1.8.0_171\jre\lib\endorsed
+2018-12-03 10:56:34,269 [main a] INFO -   os.arch	 amd64
+2018-12-03 10:56:34,269 [main a] INFO -   contrast.override.appname	 spring-petclinic
+2018-12-03 10:56:34,269 [main a] INFO -   com.contrastsecurity.agent.ContrastEngine	 yv66vgAAADEAbQcAAgEAMGNvbS9hc3BlY3RzZWN1cml0eS9jb250cmFzdC9ydW50aW1lL3V0aWwvQUVTVXRpbAcABAEAEGphdmEvbGFuZy9PYmplY3QBAANBRVMBABJMamF2YS9sYW5nL1N0cmluZzsBAA1Db25zdGFudFZhbHVlCAAFAQADYTc0AQABSQMAAABKAQADb2I5AwAAAE8BAANvYjIDAAAAKgEABjxpbml0PgEAAygpVgEABENvZGUKAAMAFAwAEAARAQAPTGluZU51bWJlclRhYmxlAQASTG9jYWxWYXJpYWJsZVRhYmxlAQAEdGhpcwEAMkxjb20vYXNwZWN0c2VjdXJpdHkvY29udHJhc3QvcnVudGltZS91dGlsL0FFU1V0aWw7AQAHZW5jcnlwdAEABihbQilbQgEACkV4Y2VwdGlvbnMHAB0BACZqYXZhL3NlY3VyaXR5L0dlbmVyYWxTZWN1cml0eUV4Y2VwdGlvbgoAAQAfDAAgACEBAAdjYWxjS2V5AQAEKClbQgoAIwAlBwAkAQATamF2YXgvY3J5cHRvL0NpcGhlcgwAJgAnAQALZ2V0SW5zdGFuY2UBACkoTGphdmEvbGFuZy9TdHJpbmc7KUxqYXZheC9jcnlwdG8vQ2lwaGVyOwcAKQEAH2phdmF4L2NyeXB0by9zcGVjL1NlY3JldEtleVNwZWMKACgAKwwAEAAsAQAXKFtCTGphdmEvbGFuZy9TdHJpbmc7KVYKACMALgwALwAwAQAEaW5pdAEAFyhJTGphdmEvc2VjdXJpdHkvS2V5OylWCgAjADIMADMAGgEAB2RvRmluYWwBAAlwbGFpbnRleHQBAAJbQgEABnJhd0tleQEAAWMBABVMamF2YXgvY3J5cHRvL0NpcGhlcjsBAANrZXkBABNMamF2YS9zZWN1cml0eS9LZXk7AQAHZGVjcnlwdAEACmNpcGhlcnRleHQHAD4BABdqYXZhL2xhbmcvU3RyaW5nQnVpbGRlcgoAPQAUCABBAQABIQoAPQBDDABEAEUBAAZhcHBlbmQBAC0oTGphdmEvbGFuZy9TdHJpbmc7KUxqYXZhL2xhbmcvU3RyaW5nQnVpbGRlcjsKAD0ARwwARABIAQAcKEMpTGphdmEvbGFuZy9TdHJpbmdCdWlsZGVyOwgASgEACkJhc2U2NFV0aWwKAEwATgcATQEAEGphdmEvbGFuZy9TdHJpbmcMAE8AUAEABmNoYXJBdAEABChJKUMIAFIBAA1DbGFzc3BhdGhVdGlsCABUAQAGSU9VdGlsCABWAQAMRW5jb2RpbmdVdGlsBwA1CgA9AFkMAFoAWwEAB3JldmVyc2UBABsoKUxqYXZhL2xhbmcvU3RyaW5nQnVpbGRlcjsKAD0AXQwAXgBfAQAIdG9TdHJpbmcBABQoKUxqYXZhL2xhbmcvU3RyaW5nOwgAYQEABUFTQ0lJCgBMAGMMAGQAZQEACGdldEJ5dGVzAQAWKExqYXZhL2xhbmcvU3RyaW5nOylbQgcAZwEAJGphdmEvaW8vVW5zdXBwb3J0ZWRFbmNvZGluZ0V4Y2VwdGlvbgEAAnNiAQAZTGphdmEvbGFuZy9TdHJpbmdCdWlsZGVyOwEACHRvUmV0dXJuAQAKU291cmNlRmlsZQEADEFFU1V0aWwuamF2YQAhAAEAAwAAAAQAGgAFAAYAAQAHAAAAAgAIABoACQAKAAEABwAAAAIACwAaAAwACgABAAcAAAACAA0AGgAOAAoAAQAHAAAAAgAPAAQAAQAQABEAAQASAAAALwABAAEAAAAFKrcAE7EAAAACABUAAAAGAAEAAAASABYAAAAMAAEAAAAFABcAGAAAAAkAGQAaAAIAGwAAAAQAAQAcABIAAAB5AAQABAAAACG4AB5MEgi4ACJNuwAoWSsSCLcAKk4sBC22AC0sKrYAMbAAAAACABUAAAAWAAUAAAAjAAQAJAAKACUAFQAmABsAJwAWAAAAKgAEAAAAIQA0ADUAAAAEAB0ANgA1AAEACgAXADcAOAACABUADAA5ADoAAwAJADsAGgACABsAAAAEAAEAHAASAAAAeQAEAAQAAAAhuAAeTBIIuAAiTbsAKFkrEgi3ACpOLAUttgAtLCq2ADGwAAAAAgAVAAAAFgAFAAAAKwAEACwACgAtABUALgAbAC8AFgAAACoABAAAACEAPAA1AAAABAAdADYANQABAAoAFwA3ADgAAgAVAAwAOQA6AAMACgAgACEAAQASAAABPAADAAMAAACwuwA9WbcAP0sqEkC2AEJXKhAqtgBGVyoQT7YARlcqEEq2AEZXKhJJBrYAS7YARlcqElEDtgBLtgBGVyoSUwO2AEu2AEZXKhJVBLYAS7YARlcqEkC2AEJXKhAqtgBGVyoQT7YARlcqEEq2AEZXKhJJBrYAS7YARlcqElEDtgBLtgBGVyoSUwO2AEu2AEZXKhJVBLYAS7YARlcBwABXTCq2AFi2AFwSYLYAYkynAARNK7AAAQCdAKoArQBmAAIAFQAAAFYAFQAAADMACAA0AA8ANQAWADYAHQA3ACQAOAAvADkAOgA6AEUAOwBQADwAVwA9AF4APgBlAD8AbABAAHcAQQCCAEIAjQBDAJgARQCdAEcArQBIAK4ASgAWAAAAFgACAAgAqABoAGkAAACdABMAagA1AAEAAQBrAAAAAgBs
+2018-12-03 10:56:34,269 [main a] INFO -   java.io.tmpdir	 C:\Users\cjsun\AppData\Local\Temp\
+2018-12-03 10:56:34,269 [main a] INFO -   line.separator	 
+
+2018-12-03 10:56:34,269 [main a] INFO -   contrast.log.daily	 true
+2018-12-03 10:56:34,269 [main a] INFO -   java.vm.specification.vendor	 Oracle Corporation
+2018-12-03 10:56:34,269 [main a] INFO -   user.variant	 
+2018-12-03 10:56:34,269 [main a] INFO -   os.name	 Windows 10
+2018-12-03 10:56:34,269 [main a] INFO -   sun.jnu.encoding	 Cp1252
+2018-12-03 10:56:34,269 [main a] INFO -   java.library.path	 C:\Program Files\Java\jdk1.8.0_171\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Ruby24-x64\bin;C:/Program Files (x86)/Texas Instruments/xdctools_3_22_01_21;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\cygwin64\bin;C:\Python27\;C:\Python27\Scripts;C:\Python34\;C:\Python34\Scripts;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\nodejs\;C:\Users\cjsun\Desktop\tools\cports;C:\Program Files\Notepad++;C:\Program Files\Git\cmd;C:\apache-maven-3.5.3\bin;C:\Program Files\Java\jdk1.8.0_171\bin;C:\PRQA\QAC-8.1.1-R\bin;C:\PRQA\QAC-8.1.1-R\TOYO_UTIL;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\HeartLandData\DT10\;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Program Files\nant-0.92\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\PRQA\PRQA-Framework-2.4.0\common\bin;C:\Users\cjsun\AppData\Local\Microsoft\WindowsApps;C:\Users\cjsun\AppData\Roaming\npm;.
+2018-12-03 10:56:34,270 [main a] INFO -   java.specification.name	 Java Platform API Specification
+2018-12-03 10:56:34,270 [main a] INFO -   java.class.version	 52.0
+2018-12-03 10:56:34,270 [main a] INFO -   sun.management.compiler	 HotSpot 64-Bit Tiered Compilers
+2018-12-03 10:56:34,270 [main a] INFO -   os.version	 10.0
+2018-12-03 10:56:34,270 [main a] INFO -   contrast.agent.location	 C:\Users\cjsun\Desktop\DemoWebApps\contrast-spring-petclinic\working\agents\contrast-3.5.8.jar
+2018-12-03 10:56:34,270 [main a] INFO -   user.home	 C:\Users\cjsun
+2018-12-03 10:56:34,270 [main a] INFO -   user.timezone	 Asia/Taipei
+2018-12-03 10:56:34,270 [main a] INFO -   log4j.defaultInitOverride	 true
+2018-12-03 10:56:34,270 [main a] INFO -   java.awt.printerjob	 sun.awt.windows.WPrinterJob
+2018-12-03 10:56:34,270 [main a] INFO -   file.encoding	 Cp1252
+2018-12-03 10:56:34,270 [main a] INFO -   java.specification.version	 1.8
+2018-12-03 10:56:34,270 [main a] INFO -   java.class.path	 C:\Users\cjsun\Desktop\DemoWebApps\contrast-spring-petclinic\target\surefire\surefirebooter906125768947513314.jar;C:\Users\cjsun\Desktop\DemoWebApps\contrast-spring-petclinic/jacocoagent.jar;C:\Users\cjsun\Desktop\DemoWebApps\contrast-spring-petclinic/contrast.jar
+2018-12-03 10:56:34,270 [main a] INFO -   user.name	 cjsun
+2018-12-03 10:56:34,270 [main a] INFO -   contrast.dir	 C:\Users\cjsun\Desktop\DemoWebApps\contrast-spring-petclinic/working
+2018-12-03 10:56:34,270 [main a] INFO -   java.vm.specification.version	 1.8
+2018-12-03 10:56:34,271 [main a] INFO -   sun.java.command	 C:\Users\cjsun\Desktop\DemoWebApps\contrast-spring-petclinic\target\surefire\surefirebooter906125768947513314.jar C:\Users\cjsun\Desktop\DemoWebApps\contrast-spring-petclinic\target\surefire\surefire6139272318762741654tmp C:\Users\cjsun\Desktop\DemoWebApps\contrast-spring-petclinic\target\surefire\surefire_08798288472627954396tmp
+2018-12-03 10:56:34,271 [main a] INFO -   java.home	 C:\Program Files\Java\jdk1.8.0_171\jre
+2018-12-03 10:56:34,271 [main a] INFO -   sun.arch.data.model	 64
+2018-12-03 10:56:34,271 [main a] INFO -   user.language	 en
+2018-12-03 10:56:34,271 [main a] INFO -   java.specification.vendor	 Oracle Corporation
+2018-12-03 10:56:34,271 [main a] INFO -   user.language.format	 zh
+2018-12-03 10:56:34,271 [main a] INFO -   contrast.server.activity.period	 1000
+2018-12-03 10:56:34,271 [main a] INFO -   awt.toolkit	 sun.awt.windows.WToolkit
+2018-12-03 10:56:34,271 [main a] INFO -   java.vm.info	 mixed mode
+2018-12-03 10:56:34,271 [main a] INFO -   contrast.reporting.period	 1000
+2018-12-03 10:56:34,271 [main a] INFO -   java.version	 1.8.0_171
+2018-12-03 10:56:34,271 [main a] INFO -   java.ext.dirs	 C:\Program Files\Java\jdk1.8.0_171\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext
+2018-12-03 10:56:34,271 [main a] INFO -   sun.boot.class.path	 C:\Program Files\Java\jdk1.8.0_171\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_171\jre\classes;C:\Users\cjsun\Desktop\DemoWebApps\contrast-spring-petclinic\contrast.jar
+2018-12-03 10:56:34,271 [main a] INFO -   java.vendor	 Oracle Corporation
+2018-12-03 10:56:34,271 [main a] INFO -   file.separator	 \
+2018-12-03 10:56:34,271 [main a] INFO -   java.vendor.url.bug	 http://bugreport.sun.com/bugreport/
+2018-12-03 10:56:34,271 [main a] INFO -   contrast.env	 qa
+2018-12-03 10:56:34,272 [main a] INFO -   contrast.server	 TEST-882
+2018-12-03 10:56:34,272 [main a] INFO -   sun.io.unicode.encoding	 UnicodeLittle
+2018-12-03 10:56:34,272 [main a] INFO -   sun.cpu.endian	 little
+2018-12-03 10:56:34,272 [main a] INFO -   sun.desktop	 windows
+2018-12-03 10:56:34,272 [main a] INFO -   sun.cpu.isalist	 amd64
+2018-12-03 10:56:34,272 [main a] INFO - Starting Contrast!
+2018-12-03 10:56:34,605 [main m] INFO - Reporting to http://taipei3:9090/Contrast
+2018-12-03 10:56:34,606 [main m] INFO - Reporting as user agent_6e3e6ea8-e8c1-4983-93de-1d85d33fe680@ContrastApac
+2018-12-03 10:56:34,611 [main z] INFO - Contrast doesn't require SSL to communicate - skipping keystore checks
+2018-12-03 10:56:34,824 [main l] INFO - Successfully parsed feature set from TeamServer
+2018-12-03 10:56:34,839 [main c] INFO - Found instructions from TeamServer: Assess=on, Protect=off
+2018-12-03 10:57:31,275 [main SpringCoverageController] ERROR - No application available during route discovery.
